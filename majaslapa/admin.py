@@ -8,7 +8,7 @@ from modeltranslation.admin import TranslationAdmin
 # Register your models here.
 # admin.site.register(Category)
 # admin.site.register(ProductType)
-# admin.site.register(ProductSpecification)
+# admin.site.register(ProductSpecification)e
 # admin.site.register(Product)
 # admin.site.register(ProductSpecificationValue)
 # admin.site.register(ProductImage)
